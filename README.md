@@ -58,4 +58,4 @@ Green Gh0st
 
 ## Status
 
-Currently under development as I continue learning web development and building new projects.
+Currently under development as I continue learning web development and building new projects. It was fun tho
